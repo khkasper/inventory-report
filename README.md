@@ -300,7 +300,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
 <details>
   <summary><strong>🛼Executando o Projeto</strong></summary>
-  Após implementar o requisito bônus, seu programa deverá ser executável <strong>via linha de comando</strong> com o comando <code>inventory_report <argumento1> <argumento2></code>:
+  Após implementar o requisito bônus, seu programa deverá ser executável <strong>via linha de comando</strong> com o comando <code>python3 -m inventory_report.main <argumento1> <argumento2></code>:
 
   - O **<argumento 1>** deve receber o caminho de um arquivo a ser importado. O arquivo pode ser um `csv`, `json` ou `xml`.
 
@@ -828,7 +828,7 @@ inventory_report <caminho_do_arquivo_input> <tipo_de_relatório>
 <details>
   <summary>
     <b>✍️ Teste manual</b>
-  </summary> No ambiente virtual onde seu projeto foi configurado, digite o comando <code>inventory_report parametro_1 parametro_2</code>, assim você conseguirá interagir com o menu.
+  </summary> No ambiente virtual onde seu projeto foi configurado, digite o comando <code>python3 -m inventory_report.main parametro_1 parametro_2</code>, assim você conseguirá interagir com o menu.
 </details>
 
 <details>
