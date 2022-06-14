@@ -20,7 +20,8 @@ class SimpleReport:
         companies = [product["nome_da_empresa"] for product in products]
         return Counter(companies).most_common(1)[0][0]
 
-    def generate(products):
+    @classmethod
+    def generate(cls, products):
         oldest_manufacturing_date = (
             SimpleReport.__get_oldest_manufacturing_date(products)
         )
