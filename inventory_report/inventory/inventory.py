@@ -25,4 +25,4 @@ class Inventory:
             return CompleteReport.generate(inventory)
 
 
-# https://www.geeksforgeeks.org/python-program-to-convert-xml-to-dictionary/ #
+# https://www.geeksforgeeks.org/python-program-to-convert-xml-to-dictionary/
