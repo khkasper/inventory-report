@@ -1,4 +1,4 @@
-from abc import Iterator
+from collections.abc import Iterator
 
 
 class InventoryIterator(Iterator):
