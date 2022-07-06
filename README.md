@@ -1,8 +1,8 @@
-Habilidades
+# Habilidades
  
-Aplicar conceitos de Orientação a Objetos em Python;
-Aplicar padrões de projeto;
-Leitura e escrita de arquivos (XML, CSV, JSON).
+- Aplicar conceitos de Orientação a Objetos em Python;
+- Aplicar padrões de projeto;
+- Leitura e escrita de arquivos (XML, CSV, JSON).
 
 # Requisitos do projeto
 
